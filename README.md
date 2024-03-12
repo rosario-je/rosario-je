@@ -46,11 +46,9 @@ I am a Full Stack Developer Student at Lighthouse Labs <img src="https://media.g
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rosario-je&theme=ocean-dark&border_radius=35&date_format=M%20j%5B%2C%20Y%5D&card_width=502)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosario-je&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosario-je&layout=compact&theme=vision-friendly-dark)](https://github.com/rosario-je/github-readme-stats)
 
-[![wakatime](https://wakatime.com/badge/user/018b8ec2-e065-4191-bd8a-adde794c1897)](https://wakatime.com/@018b8ec2-e065-4191-bd8a-adde794c1897)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=018b8ec2-e065-4191-bd8a-adde794c1897)](https://github.com/rosario-je/github-readme-stats)
 
 
 
