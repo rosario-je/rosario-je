@@ -15,6 +15,11 @@
 
 ### :fire: My Stats :
 <div align='center'>
+<p align="center">
+  <a href="https://github.com/rosario-je">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rosario-je&theme=radical" alt="Jose's GitHub Contribution"/>
+  </a>
+</p>
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rosario%2Dje&theme=ocean-dark&border_radius=35&date_format=M%20j%5B%2C%20Y%5D&card_width=502)](https://git.io/streak-stats)        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosario%2Dje&layout=compact&theme=vision-friendly-dark)](https://github.com/rosario%2Dje/github-readme-stats)
   
