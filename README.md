@@ -16,7 +16,7 @@
 ### :fire: My Stats :
 <div align='center'>
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rosario-je&theme=ocean-dark&border_radius=35&date_format=M%20j%5B%2C%20Y%5D&card_width=502)](https://git.io/streak-stats)        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosario-je&layout=compact&theme=vision-friendly-dark)](https://github.com/rosario-je/github-readme-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rosario%2Dje&theme=ocean-dark&border_radius=35&date_format=M%20j%5B%2C%20Y%5D&card_width=502)](https://git.io/streak-stats)        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosario%2Dje&layout=compact&theme=vision-friendly-dark)](https://github.com/rosario%2Dje/github-readme-stats)
   
 </div>
  
