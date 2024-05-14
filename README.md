@@ -4,6 +4,8 @@
     <a href="https://www.linkedin.com/in/joseeduardopayamps/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+
+![Visitors](https://komarev.com/ghpvc/?username=rosario-je&color=brightgreen)
     
   </div>
   <h1>
