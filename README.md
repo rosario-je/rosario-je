@@ -68,7 +68,7 @@
 
 ### :man_technologist: About Me :
 I am a Full Stack Developer graduate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Canada.
-- 📅 : Late 2024 - Early 2025 Year goal: Setting my first foot in the tech industry!
+- 📅 : Late 2024 - Early 2025 Year goal is to land my first tech job in the industry.
 - 📖 : Currently learning new technologies, starting up a project, while also studying DSA through Leetcode.
 - 🧑‍💻 : 2024 Lighthouse Labs Web Developement Flex Program Graduate
 - ✏️: 2022 Humber College's Architectural Technology Program transitioning into Web Development
