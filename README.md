@@ -1,92 +1,94 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" style='width: 50%'/>
+<div align="center">
+  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="50%" />
+  
   <div id="badges">
-    <a href="https://www.linkedin.com/in/joseeduardopayamps/">
+    <a href="https://www.linkedin.com/in/joseeduardopayamps/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    
-  ![Visitors](https://komarev.com/ghpvc/?username=rosario-je&color=brightgreen)
-    
+    <a href="https://www.josepayampsrosario.ca/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=rosario-je&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
   </div>
-  <h1>
-    Welcome to my Github Profile!
-  </h1>
-</div>
-<div align='center'>
-  <h1>
-    :fire: My Stats :
-  </h1>
+
+  <h1>👋 Hey there, I'm Jose Eduardo!</h1>
+  <h3>Full Stack Developer based in Canada</h3>
 </div>
 
-<div align='center'>
-<p align="center">
+---
+
+### My GitHub Stats
+
+<div align="center" style="display: flex; flex-direction: column; gap: 1rem;">
+
+  <!-- GitHub Profile Summary Card -->
   <a href="https://github.com/rosario-je">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rosario-je&theme=radical" alt="Jose's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rosario-je&theme=radical" alt="GitHub Contribution Summary" />
   </a>
+
+  <!-- GitHub Stats -->
+  <a href="https://github.com/rosario-je">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosario-je&layout=compact&langs_count=8&theme=radical"/>
+  </a>
+
+  <!-- GitHub Streak Stats -->
+  <a href="https://github.com/rosario-je">
+    <img src="https://streak-stats.demolab.com/?user=rosario-je&theme=radical&fire=DD472B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=959595" alt="GitHub Streak"/>
+  </a>
+
+</div>
+
+---
+
+### 🛠️ Skills & Technologies
+
+**Frontend & UI**
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
 </p>
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rosario%2Dje&theme=ocean-dark&border_radius=35&date_format=M%20j%5B%2C%20Y%5D&card_width=502)](https://git.io/streak-stats) 
-  
-</div>
 
-<div align='center'>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosario%2Dje&layout=compact&theme=vision-friendly-dark)](https://github.com/rosario%2Dje/github-readme-stats)
-  
-</div>
+**Backend & Databases**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+</p>
 
-<div align='center' class='skills'>
-  <h1>Skills and Experience:</h1>
+**Cloud & DevOps**
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Step_Functions-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-
-</div>
- 
+**Tools & Testing**
+<p>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 ---
 
-### :man_technologist: About Me :
-I am a Full Stack Developer from Canada.
-- 💻 : Tech Enthusiast and PC Builder
-- 🧑‍💻 : 2024 Lighthouse Labs Web Developement Flex Program Alumni
-- ✏️: 2022 Humber College's Architectural Technology Program transitioning into Web Development
-  
+### 👨‍💻 About Me
+
+- ☁️ **Cloud Developer** building serverless solutions with AWS
+- 🚀 **Full Stack Developer** with experience in React, Node.js, TypeScript, and Python.
+- 🏗️ **Former Architecture Tech** turned coder, bringing problem-solving skills from physical to digital spaces
+- 🔧 **Tech Enthusiast** who loves building PCs and exploring new technologies
+
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
