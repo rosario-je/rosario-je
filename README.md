@@ -29,13 +29,6 @@
 
 </div>
 
-<p>
-I'm a <strong>Software Engineer</strong> and <strong>Lighthouse Labs alumnus</strong> with a background in architectural technology.
-I bring a strong <strong>design + UX/UI</strong> mindset into everything I build—bridging the gap between clean visuals and solid engineering.
-</p>
-
-<hr/>
-
 ### A little about me:
 
 <ul>
