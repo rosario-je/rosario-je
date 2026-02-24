@@ -30,7 +30,7 @@
 <ul>
   <li> Used to be an Architectural Technologist with a love for design + UX/UI</li>
   <li> Recently got into hiking, FPV drone flying, and SNOWBOARDING!</li>
-  <li> I want to start trying to learn guitar (emphasis on “trying” 😅)</li>
+  <li> I want to start trying to learn the guitar (emphasis on “trying” 😅)</li>
   <li> If I get the chance, I’ll work on a PC build, love doing those</li>
 </ul>
 
